@@ -1,0 +1,13 @@
+/.phpunit.cache
+/build
+/composer.lock
+/docs
+/node_modules
+/vendor
+/.idea
+/.vscode
+*.cache
+*.log
+.DS_Store
+Thumbs.db
+.phpunit.result.cache
